@@ -2,3 +2,8 @@ microservices:
   app: user
   port: 9000
   version: 1.78
+
+microsoft2:
+    app: user
+    port: 3423
+    vesion: 21.23
