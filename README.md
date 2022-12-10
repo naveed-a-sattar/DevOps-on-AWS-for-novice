@@ -5,3 +5,4 @@ Here are following steps to start your DevOps practical journey
 1. Setup your AWS Free Tier Account.
 2. Network and VPC development in AWS regions and Availability Zones (AZs).
 3. settting up yaml
+4. yaml again
