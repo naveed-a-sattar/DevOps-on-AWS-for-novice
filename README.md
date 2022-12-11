@@ -6,3 +6,4 @@ Here are following steps to start your DevOps practical journey
 2. Network and VPC development in AWS regions and Availability Zones (AZs).
 3. settting up yaml
 4. yaml again
+5. Networking
