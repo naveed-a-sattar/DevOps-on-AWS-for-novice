@@ -7,3 +7,4 @@ Here are following steps to start your DevOps practical journey
 3. settting up yaml
 4. yaml again
 5. Networking
+6. understanding yaml for networking
