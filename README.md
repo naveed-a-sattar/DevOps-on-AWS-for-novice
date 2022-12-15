@@ -9,3 +9,4 @@ Here are following steps to start your DevOps practical journey
 5. Networking
 6. understanding yaml for networking
 7. understanding yaml for networking (cont.)
+8. on Step 2 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS/tree/main/EKS-VPC-CloudFormation
