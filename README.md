@@ -14,4 +14,6 @@ Here are following steps to start your DevOps practical journey
 10. cloudfront
 11. on Step 2 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS/tree/main/EKS-VPC-CloudFormation
 12. 20 projects on devops.
+13. certificate setup
+
 
