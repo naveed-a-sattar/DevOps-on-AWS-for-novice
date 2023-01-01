@@ -16,5 +16,5 @@ Here are following steps to start your DevOps practical journey
 12. 20 projects on devops.
 13. certificate setup
 14. local envrionment setup
-
+15. setting it up and running.
 
