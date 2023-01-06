@@ -17,4 +17,4 @@ Here are following steps to start your DevOps practical journey
 13. certificate setup
 14. local envrionment setup
 15. setting it up and running.
-
+16. gotit in way.
